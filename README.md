@@ -13,8 +13,8 @@ epoch: the number of training rounds
 cell _ num1 / cell _ num2 / cell _ num3: the number of neurals in three hidden layers
 ## Experiment Results
 ### Training Loss  
-Minimum Loss: 0.096  
+Minimum Loss: 0.000068
 ![](figures//loss.png)  
 ## Testing Accuracy
-Maximum Accuracy: 0.949  
+Maximum Accuracy: 0.981500
 ![](figures//accuracy.png)
